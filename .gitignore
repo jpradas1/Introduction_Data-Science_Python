@@ -158,8 +158,11 @@ cython_debug/
 .ipynb_checkpoints/*
 
 *.cvs
+*.csv
 *.png 
 *.jpg
+*.xls
+*.xlsx
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
