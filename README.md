@@ -21,6 +21,6 @@ These topics and assignments are gathered into different directories, according 
 ## Fourth Week
 > This week gathers previous knowlegdes in python pandas library, so taking into account that we introduced to a variety of statistical techniques such a 
 > distributions, sampling and t-tests, in order to get applied to datasets.
-> [(./Week_3/Assignment_4.ipynb)](https://github.com/jpradas1/Introduction_Data-Science_Python/blob/master/Week_4/Assignment_4.ipynb)
+> [(./Week_4/Assignment_4.ipynb)](https://github.com/jpradas1/Introduction_Data-Science_Python/blob/master/Week_4/Assignment_4.ipynb)
 >
 > <img src=".assigments_ss/ass4.png" width="800">
