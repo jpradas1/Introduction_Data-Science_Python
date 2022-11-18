@@ -159,7 +159,7 @@ cython_debug/
 
 *.cvs
 *.csv
-*.png 
+# *.png 
 *.jpg
 *.xls
 *.xlsx
